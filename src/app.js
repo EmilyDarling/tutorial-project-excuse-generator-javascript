@@ -1,3 +1,4 @@
+import "./styles.css";
 window.onload = () => {
   let who = [
     "The dog",
